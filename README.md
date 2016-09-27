@@ -1,7 +1,11 @@
 # aerogear-ios-jsonsz [![Build Status](https://travis-ci.org/aerogear/aerogear-ios-jsonsz.png)](https://travis-ci.org/aerogear/aerogear-ios-jsonsz)
 
-This library is deprecated.
+**This library is deprecated. It was written using Swift 2.2.**
 
+For an alternative library, I would recommend you look at:
+
+* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper), similar to jsonsz and created around the same time: library to serialize/deserialize JSON into objects.
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) to deal with immutable JSON (easily accessible via subcript json["person"]["name"]).
 
 > This module currently build with Xcode 7 and supports iOS7 [1], iOS8, iOS9.
 
